@@ -26,7 +26,6 @@ const TheirMessage = ({ lastMessage, message }) => {
           style={{
             float: "left",
             marginLeft: isFirstMessageByUser ? "4px" : "48px",
-            color: "white",
             backgroundColor: "#CABCDC",
           }}
         >
